@@ -1,4 +1,4 @@
-## Olá!! Me chamo Eduardo Verbinen
+## Hi there!! I'm Eduardo Verbinen
 
 <div>
   <a href="https://github.com/vDuduardo">
